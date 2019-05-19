@@ -1,0 +1,9 @@
+{
+  "update": "Yes",
+  "new_version": "0.8.3",
+  "apk_file_url": "https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/apk/sample-debug.apk",
+  "update_log": "1，新增波形自动刷新。\r\n2，波形下载。\r\n3，波形分析。\r\n4，App自动更新。\r\n5，修复已知Bug。",
+  "target_size": "5M",
+  "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
+  "constraint": false
+}
